@@ -1,0 +1,50 @@
+Step 1:
+cd "/workspace/exercise-terminal-challenge/thecmdchallenge"
+
+Step 2:
+pwd
+
+Step 3:
+ls -a
+
+Step 4:
+ls -R
+
+Step 5:
+reset
+
+Step 6:
+cd "/workspace/exercise-terminal-challenge/thecmdchallenge/small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/trophy.txt"
+cat trophy.txt
+
+Step 7:
+cd "/workspace/exercise-terminal-challenge/thecmdchallenge/funcode"
+find . -type f -name "*.js"
+
+Step 8:
+cd "/workspace/exercise-terminal-challenge/thecmdchallenge/funcode/the-most-funny"
+mkdir not-that-funny
+
+Step 9:
+cd "/workspace/exercise-terminal-challenge/thecmdchallenge/boringfolder"
+cp the-mostboring-text.txt lol.txt
+
+Step 10:
+mv /workspace/exercise-terminal-challenge/thecmdchallenge/funcode/kids.jpg /workspace/exercise-terminal-challenge/thecmdchallenge/funcode/images/
+
+Step 11:
+rmdir small-name
+
+Step 12:
+more the-ultimate-joke.txt
+
+Step 13:
+rm -rf boringfolder
+
+Step 14:
+install vim 
+cd "/workspace/exercise-terminal-challenge/thecmdchallenge/kamehameha"
+vim dragon-ball-jokes.md
+
+Step 15:
+after deleting first line press :w to save changes and then type :qa! to exit vim
